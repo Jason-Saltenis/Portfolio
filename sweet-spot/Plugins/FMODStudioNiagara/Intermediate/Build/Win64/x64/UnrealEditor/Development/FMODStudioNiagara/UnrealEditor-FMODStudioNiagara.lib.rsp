@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FMODStudioNiagara.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\TheSa\GD76PG27FP-SweetSpot\Intermediate\Build\Win64\x64\UnrealProjectBaseEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:\Users\TheSa\GD76PG27FP-SweetSpot\Plugins\FMODStudioNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\FMODStudioNiagara\Module.FMODStudioNiagara.cpp.obj"
+"C:\Users\TheSa\GD76PG27FP-SweetSpot\Plugins\FMODStudioNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\FMODStudioNiagara\Default.rc2.res"
+/OUT:"C:\Users\TheSa\GD76PG27FP-SweetSpot\Plugins\FMODStudioNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\FMODStudioNiagara\UnrealEditor-FMODStudioNiagara.lib"
